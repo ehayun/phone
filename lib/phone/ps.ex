@@ -1,7 +1,5 @@
 defmodule Phone.PS do
   @moduledoc false
-  @moduledoc false
-
   use Helper.Country
 
   def regex, do: ~r/^(970)()(.{8,9})/
