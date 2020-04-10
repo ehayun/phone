@@ -1,4 +1,4 @@
-defmodule Phone do
+defmodule PPhone.Phone do
   @moduledoc ~S"""
   Phone is a real telephone number parser, that will help you get useful information from numbers.
 
